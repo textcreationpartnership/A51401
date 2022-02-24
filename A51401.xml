@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of the Right Honourable Roger Earl of Orrery, who dyed the 16th of October, at Castle-Martyr, and was buried at Youghall in Ireland the 18th of the same month, in the year 1679 by Thomas Morris, M.A. ...</title>
+            <author>Morris, Thomas, M.A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51401</idno>
+            <idno type="STC">Wing M2812</idno>
+            <idno type="STC">ESTC R16333</idno>
+            <idno type="EEBO-CITATION">13033091</idno>
+            <idno type="OCLC">ocm 13033091</idno>
+            <idno type="VID">96780</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51401)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96780)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 745:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of the Right Honourable Roger Earl of Orrery, who dyed the 16th of October, at Castle-Martyr, and was buried at Youghall in Ireland the 18th of the same month, in the year 1679 by Thomas Morris, M.A. ...</title>
+                  <author>Morris, Thomas, M.A.</author>
+               </titleStmt>
+               <extent>[6], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for John Wickins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Error in paging.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Orrery, Roger Boyle, --  Earl of, 1621-1679.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96780:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the FUNERAL OF THE RIGHT HONOURABLE ROGER EARL of <hi>ORRERY.</hi> WHO Dyed the 16<hi rend="sup">th</hi> of <hi>October,</hi> at <hi>Caſtle-Martyr,</hi> and was Buried at <hi>Youghall</hi> in <hi>Ireland</hi> the 18<hi rend="sup">th</hi> of the ſame Month in the Year, 1679.</p>
+            <p>By <hi>THOMAS MORRIS,</hi> M. A. His Lordſhips Domeſtick Chaplain.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> for <hi>John Wickins</hi> at the <hi>White-Hart</hi> over againſt S<hi rend="sup">t</hi> 
+               <hi>Dunſtans</hi> Church, 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96780:2"/>
+            <pb facs="tcp:96780:2"/>
+            <head>TO THE RIGHT HONOURABLE MARGARET Counteſs Dowager OF ORRERY.</head>
+            <opener>
+               <salute>May it pleaſe your Ladiſhip,</salute>
+            </opener>
+            <p>THE high eſteem I have for the extraordinary worth of my De<g ref="char:EOLhyphen"/>ceaſed Patron, hath, I confeſs, ſuch an influence on me, that I cannot but think my ſelf obliged to do him all the honour and ſervice I can now he is Dead, as well as when he was Living: And I ſhould think my ſelf unjuſt, as well as un<g ref="char:EOLhyphen"/>grateful, ſhould I not lay hold on all op<g ref="char:EOLhyphen"/>portunities to do it.</p>
+            <p>However I muſt alſo ſay, that I am
+<pb facs="tcp:96780:3"/>ſo conſcious of my own Defects, that I ſhould have been willing theſe following Meditations on the ſad occaſion of his Death, ſhould have lain only in Private hands, had not your Ladiſhip expreſt a a willingneſs to have them more publick. Not that I have any deſign to avoid or ſuppreſs the Publication of your Noble Lords worth, whoſe Memory I ſhall al<g ref="char:EOLhyphen"/>ways honour; but that I fear my weak endeavours will rather Eclipſe than render it Illuſtrious.</p>
+            <p>But your Ladiſhips Commands ha<g ref="char:EOLhyphen"/>ving ſuperſeded all excuſe, I dare not be backward in paying this my laſt duty to him: in doing which, though my Ex<g ref="char:EOLhyphen"/>preſſions have been ſhort of his Due; yet I have hopes my zeal will Apologize for that defect, which, however illy ex<g ref="char:EOLhyphen"/>preſſed, I am ſure is hearty and real.</p>
+            <p>I have not the vanity to think, that by what I have ſaid, either in the Ser<g ref="char:EOLhyphen"/>mon
+<pb facs="tcp:96780:3"/>or Character, I have added any thing to your Ladiſhips Comfort or know<g ref="char:EOLhyphen"/>ledge; ſince as to the firſt, I am ſure your Ladiſhip is no ſuch ſtranger to Chriſti<g ref="char:EOLhyphen"/>anity, as to be deſtitute of thoſe good grounds it affords for that purpoſe. And as to the ſecond, it would be a great piece of impudence in me to think your Lady<g ref="char:EOLhyphen"/>ſhip ſhould not know and retain a livelier Idea of this your Noble Lord, than what in my rude draught I have repreſented.</p>
+            <p>All therefore that I have done will ſerve more to inform others, than your Ladiſhip, who as they come hereby to be acquainted with the admirable Excel<g ref="char:EOLhyphen"/>lencies of one more of the worlds moſt Famous Worthies; ſo in the peruſing and conſidering what is here ſaid of him, they may be further provoked to follow his steps.</p>
+            <p>Since therefore this unpoliſht piece muſt by your Ladiſhips order come abroad,
+<pb facs="tcp:96780:4"/>I cannot but take the confidence to crave your Ladiſhips pardon for, as well as Patronage of it: which by reaſon of its meanneſs, I confeſs is as unworthy of the latter as it ſtands in need of the for<g ref="char:EOLhyphen"/>mer. Hoping that though I have not drawn things ſo well to the life as they have deſerved, yet my endeavours that way may be accepted, becauſe in them I have chiefly aim'd to give a teſtimony to the world of the great Honour and E<g ref="char:EOLhyphen"/>ſteem I have for the memory of the De<g ref="char:EOLhyphen"/>ceaſed, and alſo to ſhew how much I am,</p>
+            <closer>
+               <salute>Right Honourable,</salute> 
+               <signed>Your Ladiſhips moſt obedient, moſt faithful, and moſt humble Servant in Chriſt Jeſus, Thomas Morris.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96780:4" rendition="simple:additions"/>
+            <head>A SERMON Preached at the Funeral of the Right Honourable <hi>ROGER</hi> EARL of <hi>ORRERY.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REVELATIONS xiv. 13.</hi>
+                  </bibl>
+                  <p>And I heard a voice from Heaven ſaying unto me, write, bleſſed are the dead which dye in the Lord from henceforth; yea ſaith the ſpirit, that they may reſt from their labours, and their works do follow them.</p>
+               </q>
+            </epigraph>
+            <p>SUCH and ſo many are the troubles and afflictions which by divine appointment Chriſtians are likely to meet with in this vale of tears, that had they hopes of no other happineſs, than what in this world they partake of, they would be of all men the moſt miſerable: Inſomuch that even Death it ſelf,
+<pb n="2" facs="tcp:96780:5"/>which Nature ſhrinks at and abhors, would be deſired by them, though not as a door that opens to an happy ſtate; yet as a period to all their ca<g ref="char:EOLhyphen"/>lamities and ſorrows, as well as their beings.</p>
+            <p>But there is no ſuch bad news for ſound, and ſincere Chriſtians; they are happy even in their very Afflictions, which they are aſſured from Gods ſpirit <hi>will work for them an exceeding and eternal weight of Glory.</hi>
+               <note place="margin">2 Cor. 4.17.</note>
+            </p>
+            <p>They are ſo far from being without the hopes of enjoying a more bliſsful ſtate than here they are in, that they only of all men in the world, have the moſt ſure and certain hope that way.</p>
+            <p>For Jeſus Chriſt the Eternal Son of God, hath by his precious death and ſufferings pro<g ref="char:EOLhyphen"/>cured for thoſe that are his ſincere followers, all things that may conduce to their felicity. <hi>He being the Saviour of all men,
+<note place="margin">1 Tim. 4.10. 2 Tim. 1.10.</note> eſpecially of them that believe.</hi> 'Tis <hi>He that hath brought Life and Immortality to light through the Goſpel:</hi> Which they,
+<note place="margin">Rom. 2.7.</note> 
+               <hi>who by patient continuance in well doing ſeek for,
+<note place="margin">Coloſſ. 2.14.</note> ſhall undoubtedly enjoy:</hi> 'Tis in a word, he that <hi>hath blotted out the hand-writing of Ordinances that condenm'd us:</hi> And having taken away our Sins, and nail'd them to his Croſs, hath there<g ref="char:EOLhyphen"/>by diſarmed Death of his ſharpeſt ſting; ſo that now of a King of Terrors, he is become
+<pb n="3" facs="tcp:96780:5"/>the ſweet harbinger of bliſs and peace, to all that live and dye in Chriſt.</p>
+            <p>'Tis therefore an utter miſtake to think, that ſound and ſincere Chriſtians, though grie<g ref="char:EOLhyphen"/>vouſly afflicted here, are in an hopeleſs conditi<g ref="char:EOLhyphen"/>on; on the contrary, 'tis Infidels and Hpyo<g ref="char:EOLhyphen"/>crites are ſo, they who will not have Chriſt reign in their hearts, but rather a beaſtly luſt; they who do not, and will not ſtrive to con<g ref="char:EOLhyphen"/>form their lives to Gods holy precepts; theſe, indeed, as long as they continue in their hy<g ref="char:EOLhyphen"/>pocriſie, unbelief and diſobedience, are of all men the moſt miſerable: for they can have no ſolid hopes of any other happineſs, but that low, mean, and pitiful one, that in this world only is to be enjoyed; and Death is ſo far from being a friend to them, that the very thought thereof terrifies them, and marrs all their plea<g ref="char:EOLhyphen"/>ſant enjoyments; and when it does draw near to execute its fatal Office upon them, it comes arm'd with its moſt dreadful ſting, and opens upon them a floodgate of Vengeance and Mi<g ref="char:EOLhyphen"/>ſery. This is their portion.</p>
+            <p>But now on the contrary, the truly godly have infinite reaſon to look upon Death as their reconciled friend, through Jeſus Chriſt; it be<g ref="char:EOLhyphen"/>ing through him, now made but an happy manumiſſion of their pious ſouls from the la<g ref="char:EOLhyphen"/>bours
+<pb n="4" facs="tcp:96780:6"/>and drudgeries they underwent in the fleſh, and a ſending of thoſe Immortal Beings into thoſe regions of reſt and bliſs, where the enjoyment of Gods preſence, together with the ſenſe of all thoſe good things, which through grace they have been enabled to do in the bo<g ref="char:EOLhyphen"/>dy, will be an eternal ſolace and refreſhment to them. And the evidence we have for the certainty of this future bliſs, is ſo great, that to queſtion it, will be to injure Chriſtianity, and affront our reaſons; for beſides the many other places of Scripture which bear witneſs to this truth, this of the Text alſo, is a moſt full, and unexceptionable proof of it: where we have an account from one infallibly inſpired by the ſpirit of truth, that he heard a voice from Heaven declare this Bleſſedneſs, and that the ſpirit of God ſaid, as it were, an <hi>Amen</hi> to it, to confirm it. For ſo ſaith the Holy Pen<g ref="char:EOLhyphen"/>man, <hi>And I heard a voice from Heaven ſaying unto me, write, bleſſed are,</hi> &amp;c.</p>
+            <p>Which words, as they contain in them admi<g ref="char:EOLhyphen"/>rable matter of comfort againſt the death of our ſelves, or others, that dye in the Lord; ſo they will afford me a fair opportunity of ſpeaking ſomething, concerning the admirable worth of this Noble perſon Deceaſed, whoſe Funeral Ob<g ref="char:EOLhyphen"/>ſequies, we are here met, with loads of grief,
+<pb n="5" facs="tcp:96780:6"/>to ſolemnize; of whom ſhould I ſay nothing, I might well deſerve to be branded with ingra<g ref="char:EOLhyphen"/>titude and injuſtice.</p>
+            <p>His noble Birth and Parentage, his honour<g ref="char:EOLhyphen"/>able Alliance, his high Titles, and places of honour and truſt, which the bounty of his moſt Sacred Majeſty thought good to confer on him without repenting, though they ſufficiently declare to the world, that he was a perſon of no mean Merit, and Quality; yet for as much as Honour may be poſſeſſed by the unworthy, as well as worthy, therefore I ſhall here paſs by theſe things of him, as the leaſt part of his praiſe, and in the cloſe ſpeak a little of thoſe ſingular Virtues he was eminent for, which have render'd his Memory glorious, and hap<g ref="char:EOLhyphen"/>py; and his Deceaſe comfortable to his Friends, and Relations, though our loſs of him be moſt deplorable: In the mean time I ſhall crave leave to conſider the import of the Text, and diſcourſe ſo much only of the matter contained in it, as will lead me to what I have further to ſay of this Noble perſon.</p>
+            <p>The ſacred Pen-man of this laſt part of Scri<g ref="char:EOLhyphen"/>pture, being, in the foregoing Verſe, acquainted with the invincible patience of the Saints under their afflictions, is in the words of the Text, ac<g ref="char:EOLhyphen"/>quainted with their bleſſedneſs alſo: Where we have,</p>
+            <pb n="6" facs="tcp:96780:7"/>
+            <p>
+               <hi>Firſt,</hi> A future bleſſedneſs after Death de<g ref="char:EOLhyphen"/>clared and recorded, <hi>write, bleſſed are the dead.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The perſons deſcribed who are de<g ref="char:EOLhyphen"/>clared to be thus bleſſed, <hi>viz. ſuch as dye in the Lord,</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> The time when theſe perſons are bleſſed, <hi>viz. from henceforth;</hi> from the time of their deceaſe to all Eternity.</p>
+            <p>
+               <hi>Fourthly,</hi> the evidence afforded us of the un<g ref="char:EOLhyphen"/>doubted certainty of this truth: Which is twofold,</p>
+            <p n="1">1. The teſtimony of a voice from Heaven declaring this thing, and commanding it to be Recorded, which voice was heard by one of the Holy Apoſtles, and atteſted by him, when inſpired by the ſpirit of truth, <hi>I heard a voice from Heaven, ſaying unto me, write, bleſſed,</hi> &amp;c.</p>
+            <p n="2">2. 'Tis moreover atteſted and confirm'd by the Holy ſpirit of God, who is truth it ſelf, and cannot lye; <hi>yea ſaith the ſpirit,</hi> that is, the ſpirit of God ſaith this is true.</p>
+            <p>
+               <hi>Fifthly,</hi> The nature of this bleſſedneſs, where<g ref="char:EOLhyphen"/>in it conſiſts, and that we find is in two things,</p>
+            <p n="1">1. In a freedom from thoſe evils which ho<g ref="char:EOLhyphen"/>ly perſons undergo in the fleſh, <hi>they reſt from their labours.</hi>
+            </p>
+            <p n="2">2.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> In enjoying the good of all they have done, <hi>their works do follow them,</hi> or <hi>accompany
+<pb n="7" facs="tcp:96780:7"/>with them,</hi> as the words in the original proper<g ref="char:EOLhyphen"/>ly ſignifie.</p>
+            <p>I ſhould exceed the bounds of a Funeral Sermon, and conſequently be too tedious, ſhould I take the liberty to ſay ſo much, as on this Text, and on this occaſion I might; both which afford ſuch a plenty of matter that it is hard to diſtinguiſh which is the moſt copious ſubject: I would do no wrong to the Text, and I am as unwilling to be ſo injurious to the happy memory of this Noble Peer, as to paſs by in ſilence thoſe things of him, which are worth our knowledge and imitation, and I would not exceed my due bounds.</p>
+            <p>To be as brief therefore as the ſubject mat<g ref="char:EOLhyphen"/>ter I am to diſcourſe of, will handſomly per<g ref="char:EOLhyphen"/>mit, I ſhall crave leave to make no other ob<g ref="char:EOLhyphen"/>ſervations from the words of the Text, than what will lead me to ſpeak pertinently, though briefly too, on the ſubject of this preſent ſad occaſion.</p>
+            <p>
+               <hi>Firſt,</hi> And here firſt 'tis worth our while to obſerve, That there is for certain a bliſsful ſtate to be enter'd upon, after Death, by thoſe that dye in the Lord: for we find in the Text, a voice from Heaven; from God himſelf, de<g ref="char:EOLhyphen"/>claring, that <hi>bleſſed are the dead which dye in the Lord;</hi> and this is one of the greateſt evidences
+<pb n="8" facs="tcp:96780:8"/>of the truth of a thing, that mortals can ex<g ref="char:EOLhyphen"/>pect.
+<note place="margin">Exod. 20.1.</note> By ſuch a voice, <hi>God declared his will upon Mount Sinai:</hi> By ſuch a voice, <hi>Chriſt is declared to be the Son of God:</hi>
+               <note place="margin">Matt. 3.17.</note> And by ſuch a voice they are declared bleſſed, that dye in the Lord. And leſt we ſhould have any doubt about the truth of this declaration, upon the account of the reporter, who perhaps may be thought to be deceived, or deceive; to obviate ſuch a doubt, we find an inſpired perſon reports this, one, acted by the infallible ſpirit of God, records this, and that by a ſpecial command too of that voice which he heard declare it: and leſt yet there ſhould be any place of doubting, the ſpirit of truth peremptorily aſſerts and con<g ref="char:EOLhyphen"/>firms it.</p>
+            <p>But to ſpeak a little more particularly of this important truth, I ſhall in brief conſider, 1. Who may be ſaid to <hi>dye in the Lord.</hi> 2. What rational grounds we have to be perſwa<g ref="char:EOLhyphen"/>ded that ſuch are bleſſed after their death.</p>
+            <p n="1">1. As for dying in the Lord; by Lord here we are to underſtand, our Lord and Saviour Jeſus Chriſt, and to dye in him implies two things:</p>
+            <p n="1">1. A being baptized into Chriſt; for a per<g ref="char:EOLhyphen"/>ſons dying in Chriſt, doth neceſſarily ſuppoſe his being in Chriſt, before he dyes, elſe he
+<pb n="9" facs="tcp:96780:8"/>cannot be ſaid to dye in Chriſt: Now Baptiſm is the ordinary way, by which perſons are brought to be in Chriſt; for 'tis ſaid,
+<note place="margin">Gal. 3.27.</note> as <hi>many as are baptized into Chriſt, have put on Chriſt.</hi>
+            </p>
+            <p n="2">2. It implies alſo a living and dying ſuitable to that profeſſion of Chriſt, which is made in Baptiſm: for all that are baptized do not dye in Chriſt, becauſe many fall away from that profeſſion they made in baptiſm, and ſo dye in a wicked Apoſtaſie from Chriſt: They therefore only dye in Chriſt who live and dye ſuitable to their Baptiſmal profeſſion, believ<g ref="char:EOLhyphen"/>ing with all their hearts in Jeſus Chriſt; and taking care to yield ſuch unfeigned obedience to all the Goſpel precepts, as to be always heartily ſorry for the committing of any ſin, or omitting of any duty.</p>
+            <p>They that thus live conformable to Chriſt and his precepts, and continue unto the death in ſuch a conformity, may be truly ſaid to dye in the Lord:
+<note place="margin">Joh. 15.14. Joh. 8.31.</note> for Chriſt owns ſuch to be<g ref="char:EOLhyphen"/>long unto him, <hi>that do whatſoever he commands them,</hi> and <hi>continue in his word;</hi> calling them <hi>his Friends and Diſciples indeed.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> And having thus briefly ſhew'd who 'tis that dye in the Lord: I come next to ſhew what rational grounds we have to be perſwad<g ref="char:EOLhyphen"/>ed, that ſuch are bleſſed after their death, and they are theſe following.</p>
+            <pb n="10" facs="tcp:96780:9"/>
+            <p n="1">1. It ſhould be conſidered, that all the pro<g ref="char:EOLhyphen"/>miſes and declarations of bliſs, recorded in Scripture, are made to ſuch, as ſo live, and dye;
+<note place="margin">Acts 3.19.</note> for we read, <hi>The Sins of thoſe that Repent ſhall be blotted out,</hi>
+               <note place="margin">Pſal. 32.1.</note> or <hi>forgiven. And bleſſed is he whoſe unrighteouſneſs is forgiven, and whoſe ſin is covered.
+<note place="margin">Matt. 5.8. Mar. 16.16. 1 Pet. 1. v. 3, 4.</note> Bleſſed are the pure in heart, for they ſhall ſee God. They that believe and are baptized ſhall be ſaved:</hi> That is, as the Apoſtle ſpeaks, <hi>are begotten to an inheritance incorruptible and undefiled, and that fadeth not away; reſerved in Heaven for them who are kept by the power of God through Faith unto Salvation.</hi> All theſe places of Scripture (to which many more might be added) ſuffi<g ref="char:EOLhyphen"/>ciently ſhew that there is for certain an happi<g ref="char:EOLhyphen"/>neſs provided for thoſe that dye in Chriſt, who are therefore ſaid to be bleſſed and ſaved; ſo that they may with the Apoſtle ſay,
+<note place="margin">2 Cor. 5.1.</note> 
+               <hi>We know that if our earthly Houſe of this Tabernacle were diſ<g ref="char:EOLhyphen"/>ſolved, we have a building of God, an houſe not made with hands eternal in the Heavens.</hi>
+            </p>
+            <p n="2">2. Conſider we next, that the fervent de<g ref="char:EOLhyphen"/>ſires of pious ſouls after a future happineſs, do prove there is one for them. Pious ſouls nau<g ref="char:EOLhyphen"/>ſeate all thoſe ſhadows of felicity, that are here offer'd to them, and are ſoon cloy'd with the fulſomneſs of theſe worldly enjoyments; but in the mean time,
+<note place="margin">2 Cor. 5.3, 4, 5.</note> 
+               <hi>they thirſt after, and groan for
+<pb n="11" facs="tcp:96780:9"/>ſomething more ſatisfactory:</hi> So the Apoſtle,
+<note place="margin">Rom. 8.23. Phil. 1.23.</note> 
+               <hi>de<g ref="char:EOLhyphen"/>ſires to depart and be with Chriſt which</hi> in his eſteem <hi>is far better,</hi> than to be here. And what do theſe deſires of pious ſouls after a future hap<g ref="char:EOLhyphen"/>pineſs declare elſe, but that really there is one? For God who is ſo wiſe, as to make nothing in vain, is alſo ſo good, as not to plant de<g ref="char:EOLhyphen"/>ſires in the hearts of his faithful ſervants after a future happineſs, without providing for them ſuitable objects for their ſatisfaction.</p>
+            <p n="3">3. It ſhould alſo be conſidered, That the dignity of the ſoul is ſuch, that 'tis very unrea<g ref="char:EOLhyphen"/>ſonable to imagine, there ſhould be no other happineſs fitted for pious ſouls, than what con<g ref="char:EOLhyphen"/>ſiſts in theſe temporal enjoyments. The ſoul of man is of a Divine original, a ſpiritual ſub<g ref="char:EOLhyphen"/>ſtance,
+<note place="margin">Gen. 2.7.</note> 
+               <hi>the breath of God breathed into the noſtrils of man:</hi> 'tis that which makes a very notable difference betwixt Man and all other earthly Creatures: upon which account 'tis that <hi>Elihu</hi> ſays,
+<note place="margin">Job 34.11.</note> 
+               <hi>God hath taught Man more than the Beaſts of the field, and made him wiſer than the Fowls of the Heaven:</hi> that is, hath put him in an higher ſtation than they. Now ſince the dignity of the humane ſoul is ſo high, above all earthly Creatures, next in order to the bleſſed Angels, Who can with any reaſon think it ſhould be placed in ſo high, and noble a rank of Crea<g ref="char:EOLhyphen"/>tures,
+<pb n="12" facs="tcp:96780:10"/>and yet have no other happineſs than what it enjoys in the body in common with Bruits? an happineſs that conſiſts only in ſen<g ref="char:EOLhyphen"/>ſitive ſatisfactions, which is as much below the ſoul to take pleaſure in, as ſenſe is below reaſon, or as Bruits are inferior to Men. And if there be another happineſs fitted for rational ſouls, than what in the body they enjoy in common with Bruits, this happineſs muſt be had in a future ſtate; for 'tis evident by matter of fact it is not, and hath not been, ſo much as pretended to be perfectly enjoyed here. So that then, if we think it reaſonable to allow Man a dignity above a Bruit, 'tis but reaſon<g ref="char:EOLhyphen"/>able to allow him alſo a felicity ſuitable to that dignity; and if we allow the rational ſoul a felicity ſuitable to its high nature, above that of Bruits, we muſt allow a time and ſeaſon for pious ſouls to enjoy it, in a more perfect man<g ref="char:EOLhyphen"/>ner than here they can; and what does this elſe but lead us to the owning of a future Bliſs for holy ſouls?</p>
+            <p n="4">4. But laſtly, if pious ſouls ſurvive the bo<g ref="char:EOLhyphen"/>dy, as no doubt they do, otherwiſe they that dye in the Lord cannot be pronounced bleſſed, nor can their works be ſaid to accom<g ref="char:EOLhyphen"/>pany with, or follow them; and if they do ſurvive the body, they muſt needs be in an
+<pb n="13" facs="tcp:96780:10"/>happy ſtate; for they will not meet with any of thoſe evils in their ſeparate ſtate, which grieve, and trouble them here: no ſpiritual evils will afflict them there,
+<note place="margin">Epheſ. 1.</note> for <hi>their ſins being pardoned,</hi> and quite done away <hi>by Jeſus Chriſt,</hi> all thoſe evils that are the fruits and conſequen<g ref="char:EOLhyphen"/>ces of ſin, will be done away alſo; and no corporeal evils can vex ſeparate ſouls, for they have no bodies or external ſenſes, that can be affected with joys or griefs, till the Reſurrecti<g ref="char:EOLhyphen"/>on from the dead. And as pious ſouls that died in Chriſt, can meet with nothing in their ſeparate ſtate to afflict, and grieve them; ſo they muſt needs have enough, and abundance to delight, rejoyce, and make them happy: for they carry with them a joyful ſenſe of the good they have done, the very reflexion on which even in this diſturb'd life, affords un<g ref="char:EOLhyphen"/>ſpeakable ſatisfaction and pleaſure to the mind, and therefore much more in a ſeparate ſtate. Beſides, there is no queſtion to be made, but holy ſouls in their ſeparate ſtate, will have a clearer knowledge of God, and a fuller ſenſe of divine love and favour than here they had; for there <hi>they will ſee God face to face,</hi>
+               <note place="margin">1 Cor. 13.12.</note> and <hi>know even as they are known:</hi> And this cannot but af<g ref="char:EOLhyphen"/>ford them rivers of pleaſures, and raptures of joys, and all without interruption, becauſe
+<pb n="14" facs="tcp:96780:11"/>they will have neither guilt, nor external ſenſes to divert them.</p>
+            <p>So then now 'tis to be hoped, we ſee, and are perſwaded, that good men don't periſh, vaniſh into the ſoft air, and ſo are loſt, in the dark abyſs of non-exiſtence, when they dye; but the nobler, and better part of them, their Immortal ſouls, live in bliſs and peace: which, as it ſhould comfort us againſt the fears of Death; ſo it ſhould perſwade us, to make it our buſineſs to fit and qualifie our ſelves for the participation of this future bliſs, by living ſo piouſly, and holily, and parting ſo entirely with every ſin, (which is the main thing that debars our ſouls from this felicity) as that when we come to dye we may truly dye in the Lord, and then bleſſed are we.</p>
+            <p>But if we do not live ſo, as to dye in the Lord, we cannot be bleſſed in our ſeparate ſtate, but rather muſt be eternally miſerable; for we ſhall carry that guilt with us thither, and thoſe vile unmortified affections and incli<g ref="char:EOLhyphen"/>nations, which will draw upon us an heavy ſenſe of divine vengeance, and fill us with ſuch unſpeakable horror, ſhame, tortures of mind and regret, as will render our condition there infinitely ſad and diſmal,
+<note place="margin">Matt. 24.51.</note> repreſented in Scri<g ref="char:EOLhyphen"/>pture under the direful expreſſions of <hi>Weeping
+<pb n="15" facs="tcp:96780:11"/>and gnaſhing of Teeth,</hi>
+               <note place="margin">Mar. 9.48.</note> the ſtings of <hi>a never dying Worm and a burning in unquenchable fire.</hi>
+            </p>
+            <p n="2">2. But I paſs on to a ſecond thing obſerva<g ref="char:EOLhyphen"/>ble in the words of the Text; where, from the time when, they that dye in the Lord are ſaid to be bleſſed, it may be obſerved, that they, who dye in Chriſt, do immediately af<g ref="char:EOLhyphen"/>ter their departure out of this life enter upon a bleſſed ſtate: 'tis not ſaid they that dye in the Lord ſhall be bleſſed, but <hi>they are bleſſed,</hi> or <hi>bleſſed are they,</hi> and 'tis not ſaid they are bleſ<g ref="char:EOLhyphen"/>ſed hereafter,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> but <hi>from henceforth</hi> from the time of their departure, and ſo forward for ever. And their works, that is, the joyful ſenſe and reward of their good works, do follow, or ra<g ref="char:EOLhyphen"/>ther accompany with them. All which ex<g ref="char:EOLhyphen"/>preſſions, methinks, do ſhew that holy ſepa<g ref="char:EOLhyphen"/>rate ſouls, do immediately upon their ſepara<g ref="char:EOLhyphen"/>tion from the body, enter upon a bleſſed ſtate. Hence Chriſt tells the penitent Thief, that, <hi>that day he ſhould be with him in Paradiſe:</hi>
+               <note place="margin">Luk. 23.43.</note> Be<g ref="char:EOLhyphen"/>cauſe that day he was to dye in Chriſt; and the Apoſtle makes no middle ſtate, betwixt <hi>the diſſolving our Earthly Houſe of this Tabernacle;</hi> and <hi>an having a building of God,
+<note place="margin">2 Cor. 5.1.</note> an Houſe not made with hands Eternal in the Heavens;</hi> nor betwixt <hi>departing hence, and being with Chriſt:</hi>
+               <note place="margin">Phil. 1.23.</note> But imme<g ref="char:EOLhyphen"/>diately upon the finiſhing of this courſe, ſays,
+<pb n="16" facs="tcp:96780:12"/>
+               <hi>that henceforth is laid up for him a crown of Righ<g ref="char:EOLhyphen"/>teouſneſs.</hi>
+               <note place="margin">2 Tim. 4.7, 8.</note>
+            </p>
+            <p>But what ſhould hinder any that dye in Chriſt from being immediately bleſſed? not the guilt of ſin; for that we are told is ſo done away, upon our unfeigned Repentance, that <hi>it ſhall not be ſo much as once mentioned:</hi>
+               <note place="margin">Ezek. 33.16.</note> Not the habits and cuſtoms of Sin, for the ſame time <hi>that God forgives,
+<note place="margin">Joh. 1.9.</note> he cleanſes alſo from all unrigh<g ref="char:EOLhyphen"/>teouſneſs:</hi>
+               <note place="margin">Acts 15.9.</note> and <hi>the grace of faith,</hi> which God gives to all that are ſaved,
+<note place="margin">Hebr. 9.14.</note> is ſaid, <hi>to purifie the heart;</hi> and Chriſts blood is ſaid,
+<note place="margin">1 Joh. 1.7.</note> 
+               <hi>to purge the Conſcience from dead works; and to cleanſe us from all ſin:</hi> And therefore there needs no purging, by, an I know not what, Purgatory fire. But is it ſatisfaction for ſin, which the ſoul muſt yield, by ſuffering certain pains after it is out of the body, that hinders it from an immediate en<g ref="char:EOLhyphen"/>trance upon a bliſsful ſtate? That cannot be, for Jeſus Chriſt hath, in his own perſon, made; a ſufficient and compleat ſatisfaction to Gods juſtice for our ſins; inſomuch, that he is in an eminent manner ſaid to be,
+<note place="margin">2 Joh. 2.2.</note> 
+               <hi>The propitiation for our ſins; and not for our ſins only, but alſo, for the ſins of the whole world.</hi> He hath paid the full price of our Redemption, by ſuffering the value of that, in our ſtead, which we ſhould have ſuf<g ref="char:EOLhyphen"/>fered to all Eternity. And upon this account
+<pb n="17" facs="tcp:96780:12"/>we, that are in Chriſt,
+<note place="margin">Rom. 3.24.</note> are ſaid <hi>to be juſtifyed freely through the Redemption that is in Jeſus Chriſt:</hi> and if freely, then there is no ſatisfaction to be yielded by our ſufferings.
+<note place="margin">1 Tim. 2.6. Heb. 9.12.</note> 
+               <hi>For Chriſt hath given himſelf a ranſom, and obtained an Eternal Redemption for us by his own blood,</hi> or ſufferings. So then, if none of theſe things can hinder holy ſouls from an immediate entrance upon a bleſſed ſtate, after death, then nothing elſe can.</p>
+            <p>But, though from this very Text, much more might be ſaid of this matter; yet leſt I ſhould turn a Funeral Sermon into a Polemi<g ref="char:EOLhyphen"/>cal Diſcourſe, I ſhall crave leave to ſay no more of it here, but ſhall now proceed to the laſt thing, obſervable about the the nature of that bliſs, which they that dye in Chriſt ſhall immediately be partakers of: And from hence we may obſerve,</p>
+            <p>
+               <hi>Thirdly,</hi> That the bleſſed ſtate of thoſe that dye in the Lord, conſiſts in their being freed from the labours and evils, which in this life they underwent; and in enjoying the good things which God hath promiſed and decla<g ref="char:EOLhyphen"/>red, are, and ſhall be the reward of all the good works they have done. Now in the handling of this obſervation I ſhall give a brief account,</p>
+            <p n="1">1. Of the evils and labours Holy Souls reſt <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n.</p>
+            <pb n="18" facs="tcp:96780:13"/>
+            <p n="2">2. Of the good they enjoy.</p>
+            <p n="1">1. As for the evils, and labours which pi<g ref="char:EOLhyphen"/>ous ſouls reſt from after their death, they are ſuch as theſe following:</p>
+            <p n="1">1. They are freed from the burthen of ſin, and reſt from all thoſe fears and horrors which ſin in this life is often the occaſion of; good men are grievouſly troubled here for offending God in any thing; and under this grief and trouble they a long while labour, till being by Death tranſlated to that bleſſed condition, wherein they are no longer in danger of ſin<g ref="char:EOLhyphen"/>ning, and then they happily reſt from theſe ſad labours.</p>
+            <p n="2">2. They are freed from the grief and trou<g ref="char:EOLhyphen"/>ble of ſeeing others ſin: which <hi>like righteous Lot</hi> they are <hi>grievouſly vexed with</hi> here:
+<note place="margin">2 Pet. 2.7, 8. Revel. 21.27.</note> For <hi>no ſumer,</hi> or <hi>wicked perſon can breath in thoſe Regions,</hi> to which the ſouls of thoſe that dye in the Lord, are by death immediately tranſplanted.</p>
+            <p n="3">3. They are freed from the labours and toils of their Callings and Employments, in which all perſons, in this world, are in ſome degree or other continually and neceſſarily en<g ref="char:EOLhyphen"/>gaged.</p>
+            <p n="4">4. They are freed from all bodily infirmities, pains, and diſtempers, under which many per<g ref="char:EOLhyphen"/>ſons groan a long time in this world without
+<pb n="19" facs="tcp:96780:13"/>relief; theſe no longer trouble the pious ſoul, in its ſeparate ſtate, becauſe it's then freed from the Body, by its ſtrict union with which, it only became capable of being ſo affected.</p>
+            <p n="5">5. They are freed from all thoſe croſſes and afflictions that cruelly perplex the mind here, becauſe after death they are out of that imper<g ref="char:EOLhyphen"/>fect condition where ſuch things only are af<g ref="char:EOLhyphen"/>flicting.</p>
+            <p n="6">6. They are freed from all Satans temptati<g ref="char:EOLhyphen"/>ons, and from all his cruel injections, with which pious ſouls are much diſquieted in this life. For <hi>there is a great Gulph fixed</hi> betwixt Satan and the Spirits of juſt men made perfect,
+<note place="margin">Luke 16.26.</note> which keeps that infernal Spirit from being able to moleſt any in thoſe bliſsful habitations where holy ſe<g ref="char:EOLhyphen"/>parate ſouls are.</p>
+            <p n="7">7. Laſtly, They are freed from all fears de<g ref="char:EOLhyphen"/>ſpondencies and doubts about the love and fa<g ref="char:EOLhyphen"/>vour of God, which create great labours and troubles of mind in this imperfect ſtate;
+<note place="margin">1 John 3.2.</note> 
+               <hi>for they ſhall ſee God as he is,</hi> and conſequently be per<g ref="char:EOLhyphen"/>fectly ſenſible of his love and favour. And thus <hi>all thoſe tears of grief,</hi> which in the body pious ſouls laboured under,
+<note place="margin">Rev, 7.17.</note> 
+               <hi>ſhall be wiped away from them</hi> in their ſeparate ſtate.</p>
+            <p>And ſo I paſs on from the labours and evils pious ſouls reſt from at death, which is but the
+<pb n="20" facs="tcp:96780:14"/>negative part of their bliſs, to conſider the poſi<g ref="char:EOLhyphen"/>tive part of it, <hi>viz.</hi> the good they enjoy: and here we ſhall find that,</p>
+            <p n="1">1. They enjoy a raviſhing ſenſe of Divine love and favour, an enjoyment, ſaith the Pſal<g ref="char:EOLhyphen"/>miſt,
+<note place="margin">Pſal. 63.3.</note> 
+               <hi>better than life.</hi>
+            </p>
+            <p n="1">1. They enjoy a ſweet calm and peace in their own breaſts, which is indeed but a neceſ<g ref="char:EOLhyphen"/>ſary reſult from the former enjoyment; for he that is in God's love and favour, and is at peace with him, cannot but have a ſweet peace, and calm in his own mind.</p>
+            <p n="3">3. They are filled with a joyful ſenſe of the good works which through Grace they have been enabled to do: for they will reflect with infinite ſatisfaction upon the vertuous and pi<g ref="char:EOLhyphen"/>ous actions of their lives, the ſenſe of which, even in this world, fills the ſoul with ſome glimpſes of raviſhing joy; and therefore will be likely much more to do ſo in the next, where they ſee and know things more clearly than here they can.</p>
+            <p n="4">4. They enjoy alſo that peculiar reward which God hath promiſed to all that love and fear him, and keep his Commandments; which is ſhadowed forth to us in Scripture under di<g ref="char:EOLhyphen"/>vers parabolical expreſſions,
+<note place="margin">John 14.2.</note> call'd <hi>manſions in our heavenly fathers houſe;
+<note place="margin">Jam. 1.12.</note> a crown of life, which the
+<pb n="21" facs="tcp:96780:14"/>Lord hath promiſed to thoſe that love him;</hi>
+               <note place="margin">Heb. 11.26. Matth. 25.21.</note> the <hi>recom<g ref="char:EOLhyphen"/>pence of the reward; the joy of our Lord:</hi> and, to mention no more, 'tis called by the Apoſtle, the <hi>Crown of righteouſneſs,
+<note place="margin">2 Tim. 4.8.</note> which upon the finiſhing of his courſe, he was ſure was laid up for him; and not for him only, but for all them alſo that love Chriſt's appearing.</hi>
+            </p>
+            <p>Theſe are in brief the good things which are immediately enjoyed by thoſe that dye in the Lord, beſides that exceeding eternal weight of glory, which, when ſoul and body are u<g ref="char:EOLhyphen"/>nited at the general reſurrection of the dead, they will be partakers of. For, though they who dye in the Lord immediately enter upon a bleſſed condition as ſoon as their ſouls are ſe<g ref="char:EOLhyphen"/>parated from their bodies; yet they are not then compleatly happy, only they enjoy ſo much bliſs as in a ſeparate ſtate they are capable of, which, though imperfect, will be infinite<g ref="char:EOLhyphen"/>ly ſatisfactory. But the perfect conſummation of all bliſs, both in ſoul and body, will be en<g ref="char:EOLhyphen"/>tered upon at the reſurrection only, and ſo be enjoyed thenceforward for ever;
+<note place="margin">1 Pet. 5.4.</note> For <hi>when the chief Shepherd ſhall appear,</hi> (<hi>viz.</hi> to judge the world) <hi>then ſhall we receive a Crown of Glory, that fadeth not away;</hi> that is, an eternal perfe<g ref="char:EOLhyphen"/>ction of all bliſs in both natures. Thus then <hi>bleſſed are the dead which dye in the Lord, for they reſt
+<pb n="22" facs="tcp:96780:15"/>from their labours, and their works do follow them.</hi>
+            </p>
+            <p>And now having done with the Subject matter of the Text, I have hereby made way for what I have further to ſay on the Subject of this ſad occaſion.</p>
+            <p>Where, becauſe what hath been ſaid con<g ref="char:EOLhyphen"/>cerning that future bleſſedneſs which they im<g ref="char:EOLhyphen"/>mediately enter upon that dye in the Lord, af<g ref="char:EOLhyphen"/>fords matter enough of comfort to alleviate our griefs for the deceaſe of any of our Friends that ſo dye; I ſhall therefore take an occaſion to conſider and repreſent that only in this no<g ref="char:EOLhyphen"/>ble Lord deceaſed, which may as well provoke us to follow his ſteps, as tend to the comforting of us, and moderating our ſorrows under ſo great a loſs.</p>
+            <p>A loſs of ſuch a nature, and ſo conſiderable to all ſorts of perſons, as well publick as pri<g ref="char:EOLhyphen"/>vate, that if we will but look a little into it, we ſhall quickly ſee how great a need his Re<g ref="char:EOLhyphen"/>lations, his Neighbours, yea and the three Kingdomes have of ſomething to keep their ſorrow upon this account within due bounds, for the admirable endowments of mind with which this Excellent Perſon was, above his Fellows, bleſt; and by which he became eve<g ref="char:EOLhyphen"/>ry way publickly uſeful: and the care and ex<g ref="char:EOLhyphen"/>cellent courſes he took to employ his honours,
+<pb n="23" facs="tcp:96780:15"/>places of truſt, intereſt and endowments, for the honour of God and the good of his Maje<g ref="char:EOLhyphen"/>ſty and theſe Kingdomes, were things he was ſo eminent for, that they all ſeem to con<g ref="char:EOLhyphen"/>ſpire together to make his death a much lamen<g ref="char:EOLhyphen"/>ted loſs to all his Survivers. So publick a ſpi<g ref="char:EOLhyphen"/>rited man was he, that all thoſe abilities and opportunities of doing good which God and the King vouchſafed him, were always care<g ref="char:EOLhyphen"/>fully employed by him, for the publick weal of Church and State: in doing which, every one knows, he was ſo faithful and induſtrious, that as his ſacred Majeſty was far enough from repenting of the truſt and honour he had be<g ref="char:EOLhyphen"/>ſtowed on him; ſo we may have reaſon to be<g ref="char:EOLhyphen"/>lieve the great Majeſty of Heaven and Earth, to whom all the world muſt bow and obey, did not repent of the gifts and abilities his Di<g ref="char:EOLhyphen"/>vine Goodneſs had conferred on him.</p>
+            <p>For that infirmity of Body, which he ſo long laboured under, though it deprived him at laſt of the free uſe of moſt of his limbs; yet it did not take away from him the uſe of his head and hands, by which he had been, and was to the death, eminently ſerviceable in the world.</p>
+            <p>Neither did the Divine Providence let him fall into any of thoſe crimes that might juſtly have occaſioned his rejection, nor did it per<g ref="char:EOLhyphen"/>mit
+<pb n="24" facs="tcp:96780:16"/>his reputation ſo much to ſuffer under the black mouth'd Obloquy of malicious tongues, as to occaſion his removal from all capacities and opportunities of doing good: But through the good hand and Providence of God, he was to the laſt kept firm in the ſincere profeſſion and practice of all Chriſtian Duties and loyal Principles; and conſequently was preſerved in an unfeigned repute in the World, and that notwithſtanding the attempts were made by his enemies to fully his innocence with thoſe black crimes, which nothing but his own integrity and Parts could wipe off, before the ſevereſt and higheſt Tribunal of the three Kingdoms, the Parliament of <hi>England.</hi>
+            </p>
+            <p>Theſe things may make us think God did not repent of the gifts and abilities he was plea<g ref="char:EOLhyphen"/>ſed to beſtow on him; only now our ſins and the ſins of theſe Kingdoms may poſſibly have done us the prejudice to provoke the Divine Majeſty to remove him from us, as not deſer<g ref="char:EOLhyphen"/>ving any longer ſo uſeful a Perſon among us: and that too at the very nick of time when there is moſt need of ſuch men, who by their prayers and counſels, and by their intereſt with God and men, may be fit to ſtand in the Gap, as he did. So that now indeed we may ſee what reaſon we have with the moſt briniſh
+<pb n="25" facs="tcp:96780:16"/>tears to lament our loſs in his deceaſe, and our ſins as the main cauſe of it. And now alſo we may apprehend the neceſſity of having ſome<g ref="char:EOLhyphen"/>thing to ſet bounds to, and alleviate our juſt ſor<g ref="char:EOLhyphen"/>rows.</p>
+            <p>And here, as there was enough in him to provoke us to a juſt grief for the loſs of ſo ex<g ref="char:EOLhyphen"/>cellent and uſeful a Perſon; ſo we ſhall find e<g ref="char:EOLhyphen"/>nough in him alſo, that, being conſidered with a reſpect to what is contained in the words of the Text, will yield us ſome relief in this matter.</p>
+            <p>Indeed, conſidering all his Vertues and Ac<g ref="char:EOLhyphen"/>compliſhments, how pious a Chriſtian he was, how loving a Husband, how careful and ten<g ref="char:EOLhyphen"/>der a Father, how loyal a Subject, how faith<g ref="char:EOLhyphen"/>ful a Friend, how wiſe and vigilant a Stateſman, how good a Patriot of his Country, how kind and juſt a Neighbour, how charitable to the poor, how noble a Maſter in his Family, how ingenious and learned a Perſon in his diſcourſes and converſe, and in a word, how great a Lo<g ref="char:EOLhyphen"/>ver of all Vertue and Goodneſs, and Hater of all Vice and Impiety (in all which he was ſo eminent, that though he hath left behind him many Peers in his honours, yet, 'tis to be fear<g ref="char:EOLhyphen"/>ed, few in his vertues;) conſidering, I ſay, all theſe things in him, we might have reaſon ne<g ref="char:EOLhyphen"/>ver
+<pb n="26" facs="tcp:96780:17"/>to have leſt grieving and lamenting our loſs of ſo excellent a Perſon: But conſidering withal from what great pains and labours he now reſts, and what future evils he may be ta<g ref="char:EOLhyphen"/>ken away from, and to what an happy ſtate of bliſs he is now advanced, where he doubtleſs enjoys the comfortable fruits of the good works he hath done; though we have indeed loſt one of the Pillars and Patriots of our Country, and one of our beſt Friends: yet we have reaſon humbly to acquieſce in the good will and Pro<g ref="char:EOLhyphen"/>vidence of God, leſt by our overmuch grief and ſorrow, we ſhew that we repine at what God hath done, diſtruſt his good Providence, and envy the happineſs of our noble Friend, an happineſs which a voice from Heaven declares they are poſſeſſed of that dye as he did, ſay<g ref="char:EOLhyphen"/>ing, <hi>Bleſſed are the dead that dye in the Lord;</hi> the very hearing of which, methinks, is enough to quiet and calm the moſt tumultuating paſſi<g ref="char:EOLhyphen"/>on upon this account.</p>
+            <p>And now that we may ſee we are not delu<g ref="char:EOLhyphen"/>ded in this matter with vain ſhadows and ap<g ref="char:EOLhyphen"/>pearances of comfort, I ſhall lead you to the conſiderations of thoſe things in this noble Per<g ref="char:EOLhyphen"/>ſon which from what hath been ſaid will ap<g ref="char:EOLhyphen"/>pear to be a great relief to us this way.</p>
+            <p>And, to let paſs thoſe many things that
+<pb n="27" facs="tcp:96780:17"/>might be ſaid of him, (in all which, ſhould I be particular, I ſhall be thought to compoſe a Vo<g ref="char:EOLhyphen"/>lume, rather than a Sermon) all that I ſhall ſay, ſhall be only what will be pertinent to our preſent comfort, which I ſhall digeſt into this following order, ſhewing,</p>
+            <p n="1">1. What reaſon we have to believe this no<g ref="char:EOLhyphen"/>ble Perſon dyed in the Lord, and conſequently is bleſſed.</p>
+            <p n="2">2. What labours he now reſts from.</p>
+            <p n="3">3. What good works of his follow and en<g ref="char:EOLhyphen"/>tertain him with unſpeakable joys.</p>
+            <p n="1">1. That this noble Perſon died in the Lord, theſe things following ſufficiently declare, <hi>viz.</hi> His Faith, his Repentance, and his ſincere o<g ref="char:EOLhyphen"/>bedience to all Gods Commandments.</p>
+            <p>
+               <hi>Firſt,</hi> His Faith: For as he was by Baptiſm initiated in the true Faith, ſo he continued firm and ſtedfaſt in it to the end; <hi>He believed with all his heart and ſoul</hi> (as he would often phraſe it) <hi>all the truths of Gods Word,</hi> and would often declare, <hi>He expected ſalvation in and through none elſe but Jeſus Chriſt alone, becauſe,</hi> he would ſay,
+<note place="margin">Acts 4.12.</note> 
+               <hi>there is none other name under Heaven given among men, whereby we muſt be ſaved.</hi> And this Faith of his was not an idle ſpeculative Faith, but truly active and working, which he would often ſay, <hi>was the only true ſaving Faith;</hi> for it made him ſevere a<g ref="char:EOLhyphen"/>gainſt
+<pb n="28" facs="tcp:96780:18"/>all vice and impiety, and a lover of all vertue and goodneſs; it made him alſo employ the utmoſt of his great Parts in the rigorous de<g ref="char:EOLhyphen"/>fence of all thoſe religious truths which he be<g ref="char:EOLhyphen"/>lieved Gods Word contained, againſt all the in<g ref="char:EOLhyphen"/>croaching errours of all Parties; and this not only in his common Diſcourſes, but ſometimes with his Pen too: neither did his Faith make him a talkative Chriſtian only, but it influen<g ref="char:EOLhyphen"/>ced all his actions alſo; ſo that his whole life ſeemed to be but one continued Argument of his firm belief.</p>
+            <p>
+               <hi>Secondly,</hi> His Repentance: He did not only believe, but with tears often lamented and re<g ref="char:EOLhyphen"/>pented of all the ſins he could charge himſelf with; which, though they were not many, (for he generally led too ſtrict a life to be guilty of very many) yet thoſe that he was guilty of, through ſurprize, anguiſh of his Diſtemper, or frailty, he had ſo tender a Conſcience that he was immediately ſenſible of them, and would with tears in his eyes heartily beg God's pardon for them, and by many expreſſions teſtifie how much grieved he was for offending God but by a ſinful word, as all that were near him can abundantly witneſs. And this his ſorrow for ſin which wrought this repentance in him <hi>never to be repented of,</hi> made him watch and pray, and
+<pb n="29" facs="tcp:96780:18"/>zealous againſt thoſe ſins he had been any time, through frailty, guilty of; all which are ſound marks of unfeigned repentance, if we will be<g ref="char:EOLhyphen"/>lieve what the Apoſtle ſays concerning the fruits and effects of godly ſorrow, in 2 <hi>Cor.</hi> 7.10, 11.</p>
+            <p>
+               <hi>Thirdly,</hi> His ſincere obedience; his ſound faith and unfeigned repentance could not chuſe but bring forth the ſaving fruits of obedience in his life and converſation. Hence it came to paſs that he was truly zealous in his life for the honour of God and Religion, which zeal of his enkindled in him an holy indignation a<g ref="char:EOLhyphen"/>gainſt the common crying ſins of the Age, <hi>viz.</hi> drunkenneſs, whoredom, prophane ſwearing and curſing, oppreſſion, ſchiſm, atheiſm, <hi>&amp;c.</hi> For which abominations he would ſay, <hi>The Land mourns, and God will certainly viſit.</hi> Beſides all this, it made him moſt religiouſly devout in all the Duties and Services of publick and pri<g ref="char:EOLhyphen"/>vate Worſhip; it made him frequent in good and edifying diſcourſes, and in heavenly ejacula<g ref="char:EOLhyphen"/>tions and prayers, and that even amidſt his greateſt pains; it made him charitable to the poor, humble and modeſt, temperate and ſo<g ref="char:EOLhyphen"/>ber, juſt and peaceable, forgetful and forgi<g ref="char:EOLhyphen"/>ving of injuries; and in a word, it made him do all things that Chriſt had commanded him, not out of any bye and ſiniſter ends, but in pure
+<pb n="30" facs="tcp:96780:19"/>obedience to Gods will, and out of a reſpect to God's Glory and his own ſouls ſalvation. Now what do all theſe things elſe but teſtifie that he lived and dyed in the Lord? For they, who being baptized into the true Faith, live and dye in it, repenting of all their ſins, and obey<g ref="char:EOLhyphen"/>ing ſincerely all Gods Commandments, are the perſons who, from what hath been ſaid ap<g ref="char:EOLhyphen"/>pears, dye in the Lord; and then this noble Perſon who ſo dyed, muſt needs be bleſſed, as ſuch, in the Text, are declared to be.</p>
+            <p>Having therefore now this aſſurance of the bleſſed ſtate this noble Perſon now is in, let us next take a view of the Particulars wherein it conſiſts; and therefore,</p>
+            <p n="2">2. We next come to conſider the great la<g ref="char:EOLhyphen"/>bours he now refts from. And here we ſhall find, That beſides thoſe labours and evils, which 'tis common to all that dye in the Lord to reſt from, as from ſin, and the troubles and horrours of it, from croſſes and afflictions, <hi>&amp;c.</hi> there were ſome that were more peculiar to this Excellent Man, which he now happily reſts from, and they are thoſe of his body and mind.</p>
+            <p>
+               <hi>Firſt,</hi> The bodily labours and evils which he now reſts from, are the pains of the Gout, under which he laboured near thirty years or more; and I leave it to all thoſe that ever have
+<pb n="31" facs="tcp:96780:19"/>had the leaſt Fit of that acute Diſtemper, to de<g ref="char:EOLhyphen"/>clare what an happineſs 'tis to be wholly freed from the pains of it.</p>
+            <p>
+               <hi>Secondly,</hi> As for thoſe labours of his mind, which he now alſo happily reſts from, they are thoſe which either his great Employments and Parts engaged him in, about affairs of State, and about compoſing thoſe publick Works to which the World is no Stranger; or which the ſad apprehenſions he had of the evils hanging over our heads exerciſed him with.</p>
+            <p>Theſe and the like are thoſe great labours he now reſts from, which we may well think is at leaſt ſome ſmall part of that felicity which he now enjoys. But this being but the negative part of his happineſs, we will ſtay no longer up<g ref="char:EOLhyphen"/>on it, but proceed to that poſitive part of it, which now fills him with infinite exultations and joys; and this brings me in the laſt place,</p>
+            <p>
+               <hi>Thirdly,</hi> To ſpeak of the good works of this noble Perſon, the joyful ſenſe and reward of which, doubtleſs, accompany him into his ſe<g ref="char:EOLhyphen"/>parate ſtate: And theſe are ſo many, and ſo worthy of imitation by all that ſurvive, that though I cannot be ſo injurious to your pati<g ref="char:EOLhyphen"/>ence as here to name them all; yet neither can I be ſo unjuſt to his excellent worth as not to name and recommend ſome of the moſt con<g ref="char:EOLhyphen"/>ſiderable of them.</p>
+            <pb n="32" facs="tcp:96780:20"/>
+            <p n="1">1. And firſt let me begin with his works of piety, and declare his religious deeds: And here we ſhall quickly find how much Religion hath been beholden to this Excellent Man, who not only with his tongue and pen hath moſt notably defended it againſt atheiſm, ſu<g ref="char:EOLhyphen"/>perſtition and errour, but hath made it his bu<g ref="char:EOLhyphen"/>ſineſs to encourage the life, power and practice of it in all places and companies where he had any thing to do; of which we find theſe evi<g ref="char:EOLhyphen"/>dences, He hath erected in thoſe two Houſes which he built, two ſeveral Places to worſhip God publickly in, adorning them as much, if not more, than his own Dwellings; a work calling aloud for imitation in this Kingdom, where to the ſhame, and I fear decay too, of Proteſtantiſm, ſo many hundred Pariſh Chur<g ref="char:EOLhyphen"/>ches lye yet in their ruine. But whatever o<g ref="char:EOLhyphen"/>thers could do, it ſeems this Noble Mans de<g ref="char:EOLhyphen"/>vout Soul could not endure to live in a place where God had not a publick Houſe as well as himſelf. And as he took care that God ſhould have Places of publick worſhip, ſo did his piety lead him to take care alſo that there ſhould ſuch Perſons ſerve in them, whoſe lives ſhould be an honour, not diſgrace, to their Profeſſion. Neither was his care of Religion confined to his Chapels only, but was extended to all
+<pb n="33" facs="tcp:96780:20"/>other places, perſons and things abroad, re<g ref="char:EOLhyphen"/>proving and diſcountenancing all that did in their words and actions affront Religion, and commending and encouraging all the friends and promoters of it; and that others might be religious as well as himſelf, he took care that e<g ref="char:EOLhyphen"/>ven in the School and Almes-houſe which he built, thoſe wholeſom Orders ſhould be ſet up and obſerved, that might oblige all of thoſe Societies to live religiouſly and vertuouſly. Neither did his piety lye only abroad in theſe outward things and publick matters, but it made him look home to his own Family alſo, to ſee that piety there ſhould flouriſh; order<g ref="char:EOLhyphen"/>ing that there ſhould be publick Prayers in his Family conſtantly twice a day; and command<g ref="char:EOLhyphen"/>ing me to give him an account of any that up<g ref="char:EOLhyphen"/>on my admonitions would not leave off the vices they were guilty of, that he might imme<g ref="char:EOLhyphen"/>diately diſcharge them from his houſe, for he would ſay, <hi>Such would bring judgments on his Fa<g ref="char:EOLhyphen"/>mily.</hi>
+            </p>
+            <p>And as for his Children, he was always care<g ref="char:EOLhyphen"/>ful to have them brought up in all Vertue and piety, putting them upon the performance of religious Duties in their early and moſt tender years. To give one Inſtance, amongſt many, of his care this way, I am credibly informed,
+<pb n="34" facs="tcp:96780:21"/>That when he ſent his Sons to travel, he told their Governour, <hi>He had rather he ſhould bury them beyond Sea vertuous, than bring them home vi<g ref="char:EOLhyphen"/>cious;</hi> adding this, <hi>That vice muſt be cruſh'd in the Egg, elſe 'twill ſoon become a Serpent.</hi> Neither had he a care of his Children only, but of his meaneſt Servants alſo; whom he commanded to be conſtant at Family Prayers, ordering the Younger to be catechized, and the Elder he would himſelf often mind of coming to the Sacrament of the Lords Supper, and would al<g ref="char:EOLhyphen"/>ways give them time to fit and prepare them<g ref="char:EOLhyphen"/>ſelves for it. He would often ſay, <hi>The meaneſt Scul<g ref="char:EOLhyphen"/>lion hath a ſoul to be ſaved as well as I.</hi> And 'twould be well if all Maſters did imitate him in this, which if they would, there would be more Religion amongſt Servants than I fear there ge<g ref="char:EOLhyphen"/>nerally is amongſt a great many. Thus then theſe are ſome of the works of piety which this noble Man did; and now that he is dead, I que<g ref="char:EOLhyphen"/>ſtion not but that the joyful ſenſe of them hath accompanied him into his ſeparate ſtate, and renders him bliſsful there; where doubtleſs he received the welcome of that <hi>faithful Servant,</hi> who had well employed his Lords Talents, and ſo is <hi>entred with him into the joy of his Lord.</hi>
+               <note place="margin">Matth. 25.21.</note>
+            </p>
+            <p n="2">2. Next let me ſpeak of his Works of Cha<g ref="char:EOLhyphen"/>rity; in which we ſhall find him wiſe and li<g ref="char:EOLhyphen"/>beral,
+<pb n="35" facs="tcp:96780:21"/>doing all things in this kind to the pur<g ref="char:EOLhyphen"/>poſe, and with cheerfulneſs. As he was al<g ref="char:EOLhyphen"/>ways careful to beſtow his Charity on thoſe Perſons only that were true Objects of Charity, and would be ſtrict in that matter, as became a wiſe and good man; ſo he was very readily bountiful to thoſe whom he found ſo: nay, he would often give to the leſs deſerving perſons, rather than miſs of being charitable to the truly deſerving. And in theſe deeds of Charity, to Strangers in diſtreſs, to the Poor, and to decay<g ref="char:EOLhyphen"/>ed Gentlemen and Miniſters, he was many times ſo private, that his left hand ſcarce knew what his right hand did; he was ſo far from withholding his Charity from thoſe to whom it was due, that he would often make an enquiry in the Neighbourhood, where he dwelt, for a<g ref="char:EOLhyphen"/>ny in want, to relieve them; and ſo would ſeek out for thoſe that others run from. Neither was his Charity private only, but he hath left a publick and eternal Monument of it in an Alms houſe which he built, for the maintenance of ſix poor men, and as many poor women; and hath liberally endowed it for ever. And herein I wiſh he were imitated by the Nobility and Gentry, of this Kingdom eſpecially, where there is generally ſo little proviſion made for the poor, that I fear many periſh for want of timely
+<pb n="36" facs="tcp:96780:22"/>relief. Now theſe, and many more, being the Deeds of Charity which this noble Chriſtian did, who can think but that now he enjoys the happy benefit <hi>of thoſe promiſes that are made to a li<g ref="char:EOLhyphen"/>beral ſoul?</hi>
+               <note place="margin">Prov. 11.25. Ch. 19.17.</note> For if <hi>he that gives but a cup of cold wa<g ref="char:EOLhyphen"/>ter to a Diſciple,
+<note place="margin">Matth. 10.42.</note> in the name of a Diſciple, ſhall not loſe his reward,</hi> much leſs ſhall he loſe it that hath given ſo much that way.</p>
+            <p n="3">3. Come we next to his Works of Loyalty and Faithfulneſs in publick Affairs: In which we ſhall find him ſo faithful and upright, that as no offers could tempt him to do any thing a<g ref="char:EOLhyphen"/>gainſt the publick intereſt, ſo no threats or fears of danger and diſgrace could biaſs or divert him from his juſt, loyal and honeſt counſels and de<g ref="char:EOLhyphen"/>ſigns; but in all things he approved himſelf a faithful and loyal Subject, and a true Patriot of his Country.</p>
+            <p>He was the firſt of all his Majeſties Subjects of the three Kingdoms, who made a Party to invite his preſent Majeſty from that horrid Exile, to which the iniquity of the times had driven him; which, to his immortal honour, his Ma<g ref="char:EOLhyphen"/>jeſty was graciouſly pleaſed to owne and de<g ref="char:EOLhyphen"/>clare at the Council-Board in <hi>England,</hi> ſoon af<g ref="char:EOLhyphen"/>ter his happy arrival there. And after the Kings happy reſtauration, this noble Man was ſo care<g ref="char:EOLhyphen"/>ful and watchful for his Majeſty's and theſe
+<pb n="37" facs="tcp:96780:22"/>Kingdoms intereſt, that what by his wholeſom advice, and what by the intelligence he, to his no ſmall coſt, kept, nothing to the prejudice of his Majeſties Government, could ſtir, where he had to do, but he had notice ſoon enough of it, timely to prevent all miſchief; of which the timely ſuppreſſing of <hi>Jephſon</hi>'s inſurrection in this Kingdom is an Argument.</p>
+            <p>And though he was indeed much in eſteem in the Uſurpers time, yet as it was a very ſtrange Providence that brought him into that eſteem (too large to be here recited) ſo after he was thus ſtrangely drawn into it, quite againſt his deſigns, he kept his heart loyal, and often made uſe of that intereſt he there acquired, for his Majeſties good, and the preſervation of many eminent loyal Perſons, of which ſome are yet living Teſtimonies. And many were the good turns he then did even to the Iriſh themſelves, though he fought againſt them; a whole Baro<g ref="char:EOLhyphen"/>ny of whom had been, Men, Women and Chil<g ref="char:EOLhyphen"/>dren, deſtroyed in cold blood by <hi>Ireton,</hi> had not he interpoſed, and procured a reverſion of that cruel and bloody Order.</p>
+            <p>And as for the Engliſh and Proteſtants of this Kingdom, ſince thoſe unhappy times, 'twas by his means and induſtry, that they are now ſo firmly ſetled in their eſtates by Law, that n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thing
+<pb n="38" facs="tcp:96780:23"/>but a Rebellion can ſhake them; for I have heard it ſaid, That he drew up that Act of Settlement with his own hands, by which every mans Eſtate is now ſecured to him in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> And when he was tempted with vaſt of<g ref="char:EOLhyphen"/>fers to abſent himſelf from, or not concern himſelf in the Council of <hi>England,</hi> when the bu<g ref="char:EOLhyphen"/>ſineſs of the ſettlement of this Kingdom was there in agitation; he ſo far preferred the pub<g ref="char:EOLhyphen"/>lick good before his particular private advan<g ref="char:EOLhyphen"/>tage, that with a generous diſdain he rejected thoſe, though moſt beneficial, Offers.</p>
+            <p>Thus then as he was a moſt faithful and loyal Subject to his Prince, ſo was he a good Patriot of his Country, making his Princes intereſt and Countries good, two inſeparable Companions, the Compaſs by which he ſteer'd all his publick actions. He never would or could be brought to betray the one, or act againſt the good of the other. And now that he is taken from us, while his Majeſty may lament the loſs of ſo good a Subject, and the Country of ſo good a Patriot, doubtleſs theſe good works alſo of his have fol<g ref="char:EOLhyphen"/>lowed him into the other world, and there af<g ref="char:EOLhyphen"/>ford him abundance of bliſs; for 'tis ſaid, <hi>A faithful man ſhall abound with bleſſings.</hi>
+               <note place="margin">Prov. 28.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> All that we can do is to pray God to ſend his Majeſty ano<g ref="char:EOLhyphen"/>ther ſuch Subject, and us another ſuch Patriot.</p>
+            <p n="4">4. Laſtly, to mention no more, His works
+<pb n="29" facs="tcp:96780:23"/>of Juſtice and Peace are fit to be conſidered: And here we ſhall find him moſt juſt and honeſt in all his dealings, and a great Peace-maker. E<g ref="char:EOLhyphen"/>very one found him the juſteſt and faireſt Deal<g ref="char:EOLhyphen"/>er in the world; and as he was juſt to a Farthing in his private tranſactions, ſo was he moſt up<g ref="char:EOLhyphen"/>right in his publick ſtation. For in all thoſe publick Affairs, in which he had at any time power from his Majeſty, and the Laws of the Kingdom, to hear and determine matters, he was fam'd to be ſo unbiaſs'd a Judiciary, that all Parties would be ſatisfied in having him their Arbitrator, as knowing he would do them right, though it were in a Caſe his own Father or Brother were concerned. With what admira<g ref="char:EOLhyphen"/>ble patience, condeſcenſion, meekneſs, in parti<g ref="char:EOLhyphen"/>ality and judgment, hath he heard, determined and made up Controverſies, and ſo compoſed Differences betwixt jarring Neighbours! What cunning ſtratagems would he uſe to oblige them to peace and quietneſs! and how readily would he employ his Parts, Intereſt and Autho<g ref="char:EOLhyphen"/>rity that way! This he was ſo eminent for, that he was indeed upon this account the very Ce<g ref="char:EOLhyphen"/>ment of the Country Gentry where he lived.</p>
+            <p>And that he was ſo, I am afraid his death will too ſadly prove, by their falling aſunder again, upon the loſs of this their common ligament, unleſs every one will now henceforward begin
+<pb n="40" facs="tcp:96780:24" rendition="simple:additions"/>to be ſo wiſe, as unanimouſly to agree together in love, and ſo carry on the publick good of King and Country, againſt the wiles of their de<g ref="char:EOLhyphen"/>ſigning Enemies, who rejoyce at nothing ſo much, as at the pernicious Feuds of Proteſtants.</p>
+            <p>But before you can do this, Sirs, I muſt crave the boldneſs to tell you, That you muſt lay a<g ref="char:EOLhyphen"/>ſide your pride, that make-bate of a Society, <hi>and that by which only cometh contention,</hi>
+               <note place="margin">Prov. 13.10.</note> ſaith <hi>Solo<g ref="char:EOLhyphen"/>mon;</hi> your prejudices, and private animoſities and grudges, all bye and ſiniſter ends, your cur<g ref="char:EOLhyphen"/>ſing and ſwearing, and exceſſive drinking, w<hi rend="sup">ch</hi> are ſins that provoke God to crumble a People to duſt. If you do not take heed to lay aſide theſe ſeeds of contention, you will be engaged in ſuch endleſs broils and diviſions, as will be yours and your Countries ruine; but if you will be pleaſed to hearken unto, and follow this wholeſom advice, you will then be ſo united, and be ſo capable and ready to ſerve your King and Country upon all occaſions, as that inſtead of the loſs of one, you will hereby become as many Patriots of your Country, as you are Gentlemen of this mind.</p>
+            <p>You have had a noble Example and Copy before you, who is now, doubtleſs, rejoycing a<g ref="char:EOLhyphen"/>mongſt the reſt <hi>of the ſpirits of juſt men made perfect,</hi>
+               <note place="margin">Heb. 12.23.</note> with the ſenſe of thoſe good works he hath done among you in this kind;
+<note place="margin">Pſal. 106.3.</note> 
+               <hi>For bleſſed are they that
+<pb n="41" facs="tcp:96780:24"/>keep judgment, and do righteouſneſs;
+<note place="margin">Matth. 5.9.</note> and bleſſed are the Peace-makers.</hi> And now that he is gone, do you all write after him, and do the ſame good works he hath done amongſt you, and then you will not only recover this loſs, but will alſo receive the reward of your good works, as he now en<g ref="char:EOLhyphen"/>joys his. As for this noble Perſon, now to our grief deceaſed, 'tis but a vain, and indeed an in<g ref="char:EOLhyphen"/>vidious thing, to wiſh or expect him back with you again; the only way you can have him ſtill among you is, By keeping in your minds ſuch a conſtant memory of his good works and a<g ref="char:EOLhyphen"/>ctions, as to do them your ſelves.</p>
+            <p>But I muſt draw to an end: And having thus far digreſſed to diſplay this Noblemans good works to the Country, for their imitation, who queſtionleſs know, and I hope will imitate, more of him than I have opportunity here to ſpeak of; I muſt in the concluſion revert, and ſpeak a little to the comfort and benefit of his near and dear Relations.</p>
+            <p>And firſt, As for his moſt pious and vertuous Lady, She is already ſuch a pattern of all good<g ref="char:EOLhyphen"/>neſs, that it will be my Duty to ſtrive rather to imitate that, than ſeek to mend it; whoſe Chriſti<g ref="char:EOLhyphen"/>an experience and knowledg in all religious mat<g ref="char:EOLhyphen"/>ters is already ſo great, that all I have ſaid or can ſay to conſole her under this affliction, will ſerve not ſo much to inform her, as to mind her only
+<pb n="42" facs="tcp:96780:25" rendition="simple:additions"/>of what She already knows and practiſes.</p>
+            <p>And then as for his noble Children, they are already grown up ſuch hopeful Branches and knowing Perſons, that they have little need of my pruning or advice; only thus much let me ſay for the comfort and benefit of them all, That as from what hath been ſaid, they have all rea<g ref="char:EOLhyphen"/>ſon to acquieſce in the good will and pleaſure of God, and be comforted in their, though great, loſs; becauſe, though they have loſt a friend e<g ref="char:EOLhyphen"/>very way dear and good to them, yet he is not periſhed, but is now bleſſed in being freed from thoſe pains and evils he a long time laboured under, and in being accompanied with the re<g ref="char:EOLhyphen"/>ward and joyful ſenſe of the good works he here did. So from what hath been ſaid, they that in<g ref="char:EOLhyphen"/>herit his Honour and Eſtate, may ſee they have all the encouragement imaginable to take care to inherit his above-mentioned Piety, Goodneſs, and Vertues alſo; and then they will, doubtleſs, not only purchaſe to themſelves that renown here which accompanied him in this world, but alſo participate with him of that bliſs and glory hereafter, to which he is now advanced in the other world: which God of his infinite mer<g ref="char:EOLhyphen"/>cy grant they may all do, through Jeſus Chriſt our Lord, to whom, and the Father with the Holy Ghoſt, be aſcribed all Honour and Glo<g ref="char:EOLhyphen"/>ry, now and ever.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
